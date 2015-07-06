@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Chuck Norris Facts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_fact">Zum nächsten Fakt</string>
+
+
+    <string-array name="chuck_norris_facts" >
+        <item>Chuck Norris kann in fünf verschiedenen Sprachen pfeifen – einschließlich Zeichensprache.</item>
+        <item>Chuck Norris hat bis Unendlich gezählt. Zwei mal</item>
+        <item>Wenn Chuck Norris in Wasser fällt, wird Chuck Norris nicht nass, das Wasser wird Chuck Norris.</item>
+        <item>Chuck Norris kann eine Drehtür zuschlagen.</item>
+        <item>Chuck Norris bringt Zwiebeln zum Weinen.</item>
+        <item>Chuck Norris kann durch Null teilen.</item>
+        <item>Chuck Norris isst keinen Honig. Er kaut Bienen.</item>
+        <item>Die Erde dreht sich nur, weil Chuck Norris ihr einen Roundhouse-Kick verpasst hat.</item>
+        <item>Chuck Norris isst sein Knoppers schon um 9:00 Uhr.</item>
+        <item>Chuck Norris schläft nicht. Er wartet.</item>
+    </string-array>
+</resources>

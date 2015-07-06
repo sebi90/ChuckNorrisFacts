@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chuck Norris Fact Receiver</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next_fact">Zum nächsten Fakt</string>
+</resources>
